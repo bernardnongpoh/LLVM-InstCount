@@ -5,5 +5,8 @@ I just started learning LLVM Compiler infrastructure, as I am working and doing 
 
  1. I find this [bbCount by Kelman if name is correct](https://gist.github.com/bploeckelman/3614316) interesting and borrow some of the implementation from there. I also look at [Assignment from UCSD](https://ucsd-pl.github.io/cse231/wi17/part1.html#section2) the hint look great to me. 
 
+ ![Big Picture](figs/figure1.png?raw=true "Big Picture")
+
+
 
 An LLVM Pass that count the number of Instruction at Runtime 
